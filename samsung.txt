@@ -1,0 +1,5 @@
+log-ingestion.samsungacr.com
+lcprd1.samsungcloudsolution.net
+Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
+d37ju0xanoz6gh.cloudfront.net
+ads.samsungads.com
