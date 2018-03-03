@@ -20,12 +20,14 @@ dc.ads.linkedin.com
 dpm.demdex.net
 googleads.g.doubleclick.net
 ib.adnxs.com
+log.pinterest.com
 match.adsrvr.org
 native.sharethrough.com
 p.adsymptotic.com
 pi.pardot.com
 ping.chartbeat.net
 pixel.quantserve.com
+playlog.ondemandkorea.com
 prebid.adnxs.com
 rules.quantcount.com
 s.amazon-adsystem.com
