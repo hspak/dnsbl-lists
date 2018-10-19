@@ -6,7 +6,6 @@ d38cmiae9b0e22.cloudfront.net
 d3epxf4t8a32oh.cloudfront.net
 ads.samsungads.com
 osb.samsungqbe.com
-www.samsungotn.net
 images2.vudu.com
 apicache.vudu.com
 otnprd8.samsungcloudsolution.net
