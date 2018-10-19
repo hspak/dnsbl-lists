@@ -2,4 +2,16 @@ log-ingestion.samsungacr.com
 lcprd1.samsungcloudsolution.net
 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 d37ju0xanoz6gh.cloudfront.net
+d38cmiae9b0e22.cloudfront.net
+d3epxf4t8a32oh.cloudfront.net
 ads.samsungads.com
+osb.samsungqbe.com
+www.samsungotn.net
+images2.vudu.com
+apicache.vudu.com
+otnprd8.samsungcloudsolution.net
+cdns-content.dzcdn.net
+e-cdn-images.deezer.com
+acr-us-prd.internetat.tv
+osb-ussvc.samsungqbe.com
+osb-krsvc.samsungqbe.com
