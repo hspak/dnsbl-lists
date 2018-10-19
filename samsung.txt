@@ -8,7 +8,6 @@ ads.samsungads.com
 osb.samsungqbe.com
 images2.vudu.com
 apicache.vudu.com
-otnprd8.samsungcloudsolution.net
 cdns-content.dzcdn.net
 e-cdn-images.deezer.com
 acr-us-prd.internetat.tv
